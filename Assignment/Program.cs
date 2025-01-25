@@ -29,6 +29,28 @@
 
             #endregion
 
+
+            #region Q4 :You are given a list of integers. Your task is to find and return a new list containing only the even numbers from the given list.
+
+            //List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+            //for (int i = 0; i < numbers.Count; i++)
+            //{
+            //    if (numbers[i] % 2 == 0)
+            //    {
+            //        Console.WriteLine(numbers[i]);
+            //    }
+            //} 
+            #endregion
+
+
+
+
+
+
+
+
+
         }
     }
 }
