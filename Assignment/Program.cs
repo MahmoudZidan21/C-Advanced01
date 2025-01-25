@@ -1,9 +1,24 @@
-﻿namespace Assignment
+﻿using System;
+
+namespace Assignment
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            #region Q1 :The Bubble Sort algorithm has a time complexity of O(n^2) in its worst and average cases, which makes it inefficient for large datasets. How we can optimise the Bubble Sort algorithm   And implement the code of this optimised bubble sort algorithm
+
+            // Un solved
+
+            //
+            //            The Bubble Sort algorithm has a time complexity of O(n^2) in its worst and average cases, which makes it inefficient for large datasets. How we can optimise the Bubble Sort algorithm
+            //And implement the code of this optimised bubble sort algorithm
+
+            #endregion
+
+
+
+
             #region Q2 :/*create a generic Range<T> class that represents a range of values from a 
             //             * minimum value to a maximum value.
             //             * The range should support basic operations such as checking
