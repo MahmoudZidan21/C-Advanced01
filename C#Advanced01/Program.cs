@@ -13,7 +13,7 @@
             //int A = 10 , B = 20;
             //Console.WriteLine(" Before");
             //Console.WriteLine( $" A : {A} " );
-            //Console.WriteLine( $" B : {B} " );
+            //Console.WriteLine( $" B : {B} " );l
 
             //Helper.SWAP(ref A,ref  B);
 
@@ -49,8 +49,13 @@
 
 
 
+            #region MyRegion
+            //   int [] Arr = { 8,7,6,3,4,1,10,13 };
+            //int Index =   Helper.LinearSearch(Arr, 4);
 
+            //   Console.WriteLine(Index);
 
+            #endregion
 
         }
     }
