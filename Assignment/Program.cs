@@ -15,7 +15,6 @@ namespace Assignment
             //And implement the code of this optimised bubble sort algorithm
 
             #endregion
-
             #region Q2 :/*create a generic Range<T> class that represents a range of values from a 
             //             * minimum value to a maximum value.
             //             * The range should support basic operations such as checking
@@ -43,7 +42,7 @@ namespace Assignment
 
 
             #region Q3 :You are given an ArrayList containing a sequence of elements. try to reverse the order of elements in the ArrayList in-place(in the same arrayList) without using the built-in Reverse. Implement a function that takes the ArrayList as input and modifies it to have the reversed order of elements
-
+            // Un solved
             //You are given an ArrayList containing a sequence of elements. try to reverse the order of elements in the ArrayList in-place(in the same arrayList) without using the built-in Reverse. Implement a function that takes the ArrayList as input and modifies it to have the reversed order of elements
 
             #endregion
@@ -60,14 +59,18 @@ namespace Assignment
             //} 
             #endregion
 
+            #region Q5 :implement a custom list called FixedSizeList<T> with a predetermined capacity. 
+            //implement a custom list called FixedSizeList<T> with a predetermined capacity. 
+            // Un solved
 
 
+            #endregion
 
+            #region Q6 : Given a string, find the first non-repeated character in it and return its index. If there is no such character, return -1
+            //Given a string, find the first non-repeated character in it and return its index. If there is no such character, return -1
+            // un solved
 
-
-
-
-
+            #endregion
         }
     }
 }
